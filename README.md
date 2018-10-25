@@ -47,3 +47,4 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 - Jasmine
 - jQuery
 - HTML5/CSS3
+- Handlebars
